@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kristian Kwan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuuwaaniix&label=Profile%20views&color=0e75b6&style=flat" alt="kuuwaaniix" /> </p>
-<!-- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://github.com/kuuwaaniix/kuuwaaniix/assets/101242970/35e74bff-bd85-4978-b369-e963051dd804">
 
 - 🔭 I’m currently working on **a web app and desktop app.**
